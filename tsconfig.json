@@ -21,6 +21,14 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/app/api/table/route.js",
+    "src/app/page.jsx",
+    "src/app/api/halo/route.ts"
+, "src/app/api/login/route.ts"  ],
   "exclude": ["node_modules"]
 }
