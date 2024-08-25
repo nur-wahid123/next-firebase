@@ -92,7 +92,7 @@ const Home = () => {
               </Link>
 
               <h1 className="mt-6 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-                Welcome to Squid 🦑
+                Welcome to MySquid 🦑
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500">
